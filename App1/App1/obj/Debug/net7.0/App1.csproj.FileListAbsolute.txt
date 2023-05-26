@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/bin/Debug/net7.0/App1
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/bin/Debug/net7.0/App1.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/bin/Debug/net7.0/App1.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/bin/Debug/net7.0/App1.dll
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/bin/Debug/net7.0/App1.pdb
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.dll
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/refint/App1.dll
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.pdb
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/App1.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/Debug/net7.0/ref/App1.dll

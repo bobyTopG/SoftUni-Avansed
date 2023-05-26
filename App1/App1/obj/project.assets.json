@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/boyan/Projects/SoftUni-Avansed/clAppp/clAppp/clAppp.csproj",
-      "projectName": "clAppp",
-      "projectPath": "/Users/boyan/Projects/SoftUni-Avansed/clAppp/clAppp/clAppp.csproj",
+      "projectUniqueName": "/Users/boyan/Projects/SoftUni-Avansed/App1/App1/App1.csproj",
+      "projectName": "App1",
+      "projectPath": "/Users/boyan/Projects/SoftUni-Avansed/App1/App1/App1.csproj",
       "packagesPath": "/Users/boyan/.nuget/packages/",
-      "outputPath": "/Users/boyan/Projects/SoftUni-Avansed/clAppp/clAppp/obj/",
+      "outputPath": "/Users/boyan/Projects/SoftUni-Avansed/App1/App1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/boyan/.nuget/NuGet/NuGet.Config"
