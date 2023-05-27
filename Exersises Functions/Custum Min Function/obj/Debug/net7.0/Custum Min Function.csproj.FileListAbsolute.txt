@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/bin/Debug/net7.0/Custum Min Function
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/bin/Debug/net7.0/Custum Min Function.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/bin/Debug/net7.0/Custum Min Function.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/bin/Debug/net7.0/Custum Min Function.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/bin/Debug/net7.0/Custum Min Function.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/refint/Custum Min Function.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/Custum Min Function.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Custum Min Function/obj/Debug/net7.0/ref/Custum Min Function.dll

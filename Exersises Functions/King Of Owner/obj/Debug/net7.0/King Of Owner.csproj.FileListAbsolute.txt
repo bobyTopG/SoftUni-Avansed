@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/bin/Debug/net7.0/King Of Owner
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/bin/Debug/net7.0/King Of Owner.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/bin/Debug/net7.0/King Of Owner.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/bin/Debug/net7.0/King Of Owner.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/bin/Debug/net7.0/King Of Owner.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/refint/King Of Owner.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/King Of Owner.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/King Of Owner/obj/Debug/net7.0/ref/King Of Owner.dll

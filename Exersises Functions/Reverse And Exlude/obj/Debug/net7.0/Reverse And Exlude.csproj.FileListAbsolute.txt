@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/bin/Debug/net7.0/Reverse And Exlude
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/bin/Debug/net7.0/Reverse And Exlude.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/bin/Debug/net7.0/Reverse And Exlude.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/bin/Debug/net7.0/Reverse And Exlude.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/bin/Debug/net7.0/Reverse And Exlude.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/refint/Reverse And Exlude.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/Reverse And Exlude.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/obj/Debug/net7.0/ref/Reverse And Exlude.dll
