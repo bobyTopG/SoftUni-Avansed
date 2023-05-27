@@ -1,0 +1,15 @@
+/Users/boyan/Projects/Stack/Stack/bin/Debug/net7.0/Stack
+/Users/boyan/Projects/Stack/Stack/bin/Debug/net7.0/Stack.deps.json
+/Users/boyan/Projects/Stack/Stack/bin/Debug/net7.0/Stack.runtimeconfig.json
+/Users/boyan/Projects/Stack/Stack/bin/Debug/net7.0/Stack.dll
+/Users/boyan/Projects/Stack/Stack/bin/Debug/net7.0/Stack.pdb
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.csproj.AssemblyReference.cache
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.AssemblyInfoInputs.cache
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.AssemblyInfo.cs
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.dll
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/refint/Stack.dll
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.pdb
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/Stack.genruntimeconfig.cache
+/Users/boyan/Projects/Stack/Stack/obj/Debug/net7.0/ref/Stack.dll
