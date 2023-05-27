@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/bin/Debug/net7.0/Even Or Odds
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/bin/Debug/net7.0/Even Or Odds.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/bin/Debug/net7.0/Even Or Odds.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/bin/Debug/net7.0/Even Or Odds.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/bin/Debug/net7.0/Even Or Odds.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/refint/Even Or Odds.dll
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/Even Or Odds.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Even Or Odds/obj/Debug/net7.0/ref/Even Or Odds.dll

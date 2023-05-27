@@ -1,6 +1,10 @@
 ﻿int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 string comand = string.Empty;
 
+Action<int[]> print = (numbers) =>
+{
+    Console.WriteLine(string.Join(" ", numbers));
+};
 Func<int[], string, int[]> aritmetics = (array, comand) =>
 {
     List<int> newNumbers = new();
@@ -28,16 +32,12 @@ Func<int[], string, int[]> aritmetics = (array, comand) =>
     }
     else if (comand == "print")
     {
-        Print(array);
+        print(array);
     }
     return array;
 
 };
 
-static void Print(int[] array)
-{
-    Console.WriteLine(string.Join(" ", array));
-}
 
 while ((comand = Console.ReadLine()) != "end")
 {
