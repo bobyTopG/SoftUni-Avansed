@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{823BA0B8-0183-454C-BE64-CBBC28E34679}|Default">
+  <MonoDevelop.Ide.ItemProperties.Predicate_220Party FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Predicate_220for_220numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Action_220Point PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Applied_220Aritmetics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>List Of Predicates/List Of Predicates.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Custum_220Min_220Function PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Reverse_220And_220Exlude PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/boyan/Projects/SoftUni-Avansed/Exersises Functions/Reverse And Exlude/Program.cs" relfile="Reverse And Exlude/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Predicate for numbers/Program.cs">
+    <Files>
+      <File FileName="Exersises Functions/Program.cs" Line="4" Column="60" />
+      <File FileName="King Of Owner/Program.cs" Line="13" Column="1" />
+      <File FileName="Custum Min Function/Program.cs" Line="9" Column="1" />
+      <File FileName="Even Or Odds/Program.cs" Line="18" Column="29" />
+      <File FileName="Applied Aritmetics/Program.cs" Line="41" Column="1" />
+      <File FileName="Reverse And Exlude/Program.cs" Line="6" Column="1" />
+      <File FileName="Predicate for numbers/Program.cs" Line="18" Column="39" />
+      <File FileName="Predicate pa/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exersises Functions" expanded="True">
+            <Node name="Predicate for numbers" expanded="True" />
+            <Node name="Reverse And Exlude" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.The_220Party_220Reservation FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.King_220Of_220Owner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
