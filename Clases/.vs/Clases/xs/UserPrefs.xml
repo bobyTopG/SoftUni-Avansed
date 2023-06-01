@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{FD4AC339-DF20-4F8F-8418-82346FCE3254}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Clases PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Clases PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Clases/StartUp.cs">
     <Files>
-      <File FileName="Clases/Person.cs" Line="8" Column="28" />
+      <File FileName="Clases/Person.cs" />
       <File FileName="Clases/StartUp.cs" Line="15" Column="1" />
     </Files>
     <Pads>
@@ -23,4 +22,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
