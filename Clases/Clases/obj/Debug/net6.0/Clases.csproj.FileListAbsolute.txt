@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/bin/Debug/net6.0/Clases
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/bin/Debug/net6.0/Clases.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/bin/Debug/net6.0/Clases.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/bin/Debug/net6.0/Clases.dll
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/bin/Debug/net6.0/Clases.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.dll
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/refint/Clases.dll
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/Clases.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/Clases/Clases/obj/Debug/net6.0/ref/Clases.dll

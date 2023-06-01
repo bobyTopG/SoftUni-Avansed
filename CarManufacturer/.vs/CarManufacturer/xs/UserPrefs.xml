@@ -1,26 +1,24 @@
 ﻿<Properties StartupConfiguration="{C99CF7A7-2D49-45CE-B2C2-4FB5CEE2E0C1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CarManufacturer PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CarManufacturer/Car.cs">
     <Files>
-      <File FileName="CarManufacturer/Program.cs" Line="1" Column="1" />
-      <File FileName="CarManufacturer/Car.cs" Line="1" Column="1" />
+      <File FileName="CarManufacturer/Program.cs" />
+      <File FileName="CarManufacturer/Car.cs" Line="7" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CarManufacturer" expanded="True">
-            <Node name="CarManufacturer" expanded="True">
-              <Node name="Car.cs" selected="True" />
-            </Node>
+            <Node name="CarManufacturer" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CarManufacturer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
