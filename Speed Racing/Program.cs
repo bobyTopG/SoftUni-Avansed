@@ -16,8 +16,10 @@
                 double fuelAmont = double.Parse(tockens[1]);
                 double fuelConsumption = double.Parse(tockens[2]);
 
-                Car car = new Car(model, fuelAmont, fuelConsumption);
-
+                Car car = new Car();
+                car.Model = model;
+                car.FuelAmont = fuelAmont;
+                car.FuelConsuption = fuelConsuption;
                 dict.Add(car.Model, car);
                
             }
