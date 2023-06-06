@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{0AE3F1B8-9652-4368-B19E-07FEA32407CE}|Default">
-  <MonoDevelop.Ide.ItemProperties.Box FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Box/Box.cs">
+    <Files>
+      <File FileName="Box/Program.cs" Line="7" Column="20" />
+      <File FileName="Box/Box.cs" Line="11" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Box" expanded="True">
+            <Node name="Box" expanded="True">
+              <Node name="Box.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Box PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
