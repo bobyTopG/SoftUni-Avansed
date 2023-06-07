@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/bin/Debug/net7.0/Swap
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/bin/Debug/net7.0/Swap.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/bin/Debug/net7.0/Swap.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/bin/Debug/net7.0/Swap.dll
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/bin/Debug/net7.0/Swap.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.dll
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/refint/Swap.dll
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/Swap.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/Swap/Swap/obj/Debug/net7.0/ref/Swap.dll
