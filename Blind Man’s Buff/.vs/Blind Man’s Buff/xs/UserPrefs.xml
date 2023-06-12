@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{FDE91B3C-C04E-4358-AB09-94018B7982E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blind Man’s Buff/Program.cs">
+    <Files>
+      <File FileName="Blind Man’s Buff/Program.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blind Man’s Buff" expanded="True">
+            <Node name="Blind Man’s Buff" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Blind_220Man_42019s_220Buff PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

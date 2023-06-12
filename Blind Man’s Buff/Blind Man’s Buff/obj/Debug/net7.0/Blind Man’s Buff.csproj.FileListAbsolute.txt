@@ -1,0 +1,15 @@
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/bin/Debug/net7.0/Blind Man’s Buff
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/bin/Debug/net7.0/Blind Man’s Buff.deps.json
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/bin/Debug/net7.0/Blind Man’s Buff.runtimeconfig.json
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/bin/Debug/net7.0/Blind Man’s Buff.dll
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/bin/Debug/net7.0/Blind Man’s Buff.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.csproj.CoreCompileInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.dll
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/refint/Blind Man’s Buff.dll
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.pdb
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/Blind Man’s Buff.genruntimeconfig.cache
+/Users/boyan/Projects/SoftUni-Avansed/Blind Man’s Buff/Blind Man’s Buff/obj/Debug/net7.0/ref/Blind Man’s Buff.dll

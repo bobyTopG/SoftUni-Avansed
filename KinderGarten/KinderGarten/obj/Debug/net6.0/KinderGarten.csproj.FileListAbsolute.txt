@@ -1,0 +1,5 @@
+/Users/boyan/Projects/SoftUni-Avansed/KinderGarten/KinderGarten/obj/Debug/net6.0/KinderGarten.csproj.AssemblyReference.cache
+/Users/boyan/Projects/SoftUni-Avansed/KinderGarten/KinderGarten/obj/Debug/net6.0/KinderGarten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan/Projects/SoftUni-Avansed/KinderGarten/KinderGarten/obj/Debug/net6.0/KinderGarten.AssemblyInfoInputs.cache
+/Users/boyan/Projects/SoftUni-Avansed/KinderGarten/KinderGarten/obj/Debug/net6.0/KinderGarten.AssemblyInfo.cs
+/Users/boyan/Projects/SoftUni-Avansed/KinderGarten/KinderGarten/obj/Debug/net6.0/KinderGarten.csproj.CoreCompileInputs.cache
